@@ -45,7 +45,7 @@
 </div> <br> <br> <br>
 
 
-<h3 align="center" style={{ fontSize: "30px", marginBottom: "20px" }}><u>check my project</u></h3> <br>
+<h3 align="center" style={{ fontSize: "30px", marginBottom: "20px" }}><u>check my projects</u></h3> <br>
 <div align="center" ><a href="https://warmyhomes.vercel.app/" target="_blank" style={{ alignSelf: "center", marginBottom: "40px" }}> <img src="https://raw.githubusercontent.com/aenesu/WarmyHomes/main/frontend/warmy-homes/public/assets/images/logo-white2.png" alt="warmy homes" width="312" height="72" /> </a>
 
  <br> <br> 
