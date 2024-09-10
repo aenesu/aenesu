@@ -25,7 +25,7 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" /> </a> <br> <br>
 </div>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" /> </a> <br />
-<a href="https://nextjs.com/" target="_blank" style={{ marginTop: "-70px" }}> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="200" height="200" /> </a>
+<a href="https://nextjs.org/" target="_blank" style={{ marginTop: "-70px" }}> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="200" height="200" /> </a>
 </div>
 
 
