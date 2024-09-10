@@ -2,7 +2,7 @@
 <p style={{ margin: "-5px 0 10px 0" }}>and this is a window to me</p>
 
 
-<a href="https://linkedin.com/in/aenesu" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aenesu" height="30" width="40" /></a> <br>
+<div align="right"> <a href="https://linkedin.com/in/aenesu" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aenesu" height="30" width="40" /></a> </div> <br>
 <div align="right" >reach me here</div>
   
 <hr />
