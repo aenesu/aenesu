@@ -39,9 +39,9 @@
 
 <h3 align="center" style={{ fontSize: "30px", marginBottom: "20px" }}><u>design tools i use</u></h3><br>
 <div align="center" style={{ marginBottom: "50px" }}>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60" /> </a> &nbsp &nbsp &nbsp 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60" /> </a> &nbsp &nbsp &nbsp 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80" /> </a> &nbsp &nbsp &nbsp
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="illustrator" width="60" height="60" /> </a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="illustrator" width="60" height="60" /> </a>
 </div> <br> <br> <br>
 
 
