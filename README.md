@@ -7,7 +7,7 @@
   
 <hr />
   
-<h3 style={{ marginTop: "10px" }}> curious and freshly graduated frontend developer </h3>
+<h3 style={{ marginTop: "10px" }}> curious and enthusiastic frontend developer </h3>
 <h5 style={{ marginBottom: "30px" }} >with 8+ years of graphic designing experience</h3>
 
 
